@@ -1,6 +1,6 @@
 
 import Homepage from "@/components/Homepage";
-import Cro from "@/components/Cro";
+
 
 export default function Home() {
   return (
